@@ -62,4 +62,3 @@ export default class registerservice {
 // รอง เทส
 // branch test
 // branch tukk
-// สวัสดีชาวโลก
